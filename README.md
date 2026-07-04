@@ -23,4 +23,4 @@ This project is still in an early stage and has limited functionality. It does n
 
 ## Design source
 
-The original design source is available at https://www.figma.com/design/HomSmjddOQVhZriVPOW7nO/Akay.
+The original design source is available at https://zaffre-name-56739223.figma.site/
